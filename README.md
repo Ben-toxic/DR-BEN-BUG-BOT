@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=💀+💀+💀+💀+MOST+DANGEROUS+BUG+BOT+💀+💀+💀+💀;𝐵𝛯𝛮+𝐵𝑈𝐺+𝐵𝛩𝑇+MADE+BY+DR+BEN+;FOLLOW+ME+ON+FACEBOOK+@Comedianbenito._" alt="Typing SVG" /></a>
+  
+  <img src="IMG-20240702-WA0010.jpg" />
+</p>
+
 ### WhatsApp Bug Bot By `𝐵𝛯𝛮 𝐵𝑈𝐺 𝐵𝛩𝑇`
 Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
 ### Bot Features
