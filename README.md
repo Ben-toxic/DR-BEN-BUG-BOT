@@ -1,4 +1,4 @@
-<p align="center">
+J7ZJvvwBWcIkdY8QwozwngeuGxvMQspIJWuvy8bN7m4<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=💀+💀+DANGER⚠️+DANGER+⚠️;𝐵𝛯𝛮+𝐵𝑈𝐺+𝐵𝛩𝑇+MADE+BY+BEN+;Follow+me+FACEBOOK+%4Comedianbenito._" alt="Typing SVG" /></a>
   
   <img src="https://telegra.ph/file/c0dd51c05d02eb80021e6.jpg" />
@@ -64,7 +64,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
    [`More hacks & tutorials`](youtube.com/@techgod143)
 
 # contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/917466008456?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/254719485000?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029VajDpxW1yT22Id1QKx3i)" target="_blank">
