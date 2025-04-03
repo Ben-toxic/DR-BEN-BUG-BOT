@@ -1,72 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=💀+💀+DANGER⚠️+DANGER+⚠️;𝐵𝛯𝛮+𝐵𝑈𝐺+𝐵𝛩𝑇+MADE+BY+BEN+;Follow+me+FACEBOOK+%4Comedianbenito._" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=❤️+❤️+BABE+I+LOVE+YOU+SO+MUCH;YOU+ALWAYS+MAKE MY DAY +;GOOD+BE+BLESSED._" alt="Typing SVG" /></a>
   
   <img src="https://telegra.ph/file/c0dd51c05d02eb80021e6.jpg" />
 </p>
 
-### WhatsApp Bug Bot By `𝐵𝛯𝛮 𝐵𝑈𝐺 𝐵𝛩𝑇`
-Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
-### Bot Features
-*⚠️ 
-
-1. Bug menu(full crash) 
-
-2. Auto status views
-
-3. Auto read chat
-    
-4. Auto bio (about)
-
-5. auto recording & typing
-
-6. Always online
-
-7. heroku full antiban
-
-8. Auto block
-
-9. public/private mode ⚠️*
-
-
-# Heroku deploy setup
-
-
-   1. - 🎭 `Star` 🌟 this repository.
-- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/Ben-toxic/DR-BEN-BUG-BOT/fork) this repository.
-3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
-
-4.   - If you don't have an account of heroku [create an account now](https://youtu.be/MFA2p4-BviQ?si=PYVzRn6wnpE4_0Im)
-5.  - Now watch this tutorial [Video](https://youtu.be/hjjzFlZmRqk) for `Deploy Bot`
-
-
-
-## `Heroku` buildpacks
-1. buildpack
--     heroku/nodejs
-   
-2. buildpack
--     https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-3. buildpack
-
--     https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
-
-
-
-
-#  important 👇 for you
-
-<div align="center">
-<a href="https://www.instagram.com/techgod143/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+𝐵𝛯𝛮" alt="Typing SVG" /></a>
-  
-# YouTube channel link 👇 
-   [`More hacks & tutorials`](youtube.com/@techgod143)
-
-# contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/254719485000?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
-<a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029VajDpxW1yT22Id1QKx3i)" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+Hey my love, I just wanted to take a moment to talk to you and remind you of how much you mean to me. I know I don’t always get the chance to tell you everything that’s on my heart, especially with all the work and studying I’ve been doing lately. But please know that even though I’m busy with school and sometimes have to focus all my energy on my studies, you’re never far from my thoughts.
+Every day, I find myself thinking about you, imagining the moments we’ve shared and all the beautiful memories we’re still going to make. I miss the sound of your voice, your laughter, and just being able to hold you close. You have no idea how much I long to be with you, to spend time together without the distractions of everything else. It’s not that I don’t want to talk to you; it’s just that sometimes, school can be overwhelming, and I don’t always have as much time as I’d like to give you all the attention you deserve. I know it can be tough for you too, with the distance between us and the time apart, but I want you to understand that it doesn’t change how much I love you. If anything, it makes me appreciate you even more. You’ve been so patient and supportive, and it means the world to me. I know I can’t be there physically, but emotionally, my heart is always with you. I think about you all the time—before I go to sleep, when I wake up, and even in between study sessions. 
+I promise you, I’m working hard for our future. Every moment I put into studying and every effort I put into building something for myself is also something I’m doing for us. You are my motivation, my inspiration, and my reason for striving to be the best I can be. I want to give you everything you deserve—my time, my love, my attention—and I know that this period of being apart won’t last forever.
+I’m not perfect, and I know I could always do more to make you feel appreciated and loved, but please know that you are the most important person in my life. You make everything worth it. Every time I pick up the phone to call you, I’m reminded of how lucky I am to have you. And even though I can’t always be there, my love for you grows stronger every day.Thank you for your patience, for your understanding, and for your constant support. You make everything easier for me, and I can’t wait until we can be together again, without all the studying and distance between us. Until then, I’ll carry you in my heart and keep working hard for the life we’re going to build together.
+I love you so much, more than words can even express. I miss you terribly, and I can’t wait to hold you in my arms again soon.
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
