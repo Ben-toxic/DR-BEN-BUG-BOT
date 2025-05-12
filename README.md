@@ -1,12 +1,8 @@
+<h1 align="center"> MY CHIZI MATE <br></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=❤️+❤️+BABE+I+LOVE+YOU+SO+MUCH;YOU+ALWAYS+MAKE MY DAY +;GOOD+BE+BLESSED._" alt="Typing SVG" /></a>
-  
-  <img src="https://telegra.ph/file/c0dd51c05d02eb80021e6.jpg" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=MY+CHIZI+YOU+LOOK+BEAUTIFUL;WHEN+YOU+SMILE"alt="Typing SVG" /></a>
 
-Hey my love, I just wanted to take a moment to talk to you and remind you of how much you mean to me. I know I don’t always get the chance to tell you everything that’s on my heart, especially with all the work and studying I’ve been doing lately. But please know that even though I’m busy with school and sometimes have to focus all my energy on my studies, you’re never far from my thoughts.
-Every day, I find myself thinking about you, imagining the moments we’ve shared and all the beautiful memories we’re still going to make. I miss the sound of your voice, your laughter, and just being able to hold you close. You have no idea how much I long to be with you, to spend time together without the distractions of everything else. It’s not that I don’t want to talk to you; it’s just that sometimes, school can be overwhelming, and I don’t always have as much time as I’d like to give you all the attention you deserve. I know it can be tough for you too, with the distance between us and the time apart, but I want you to understand that it doesn’t change how much I love you. If anything, it makes me appreciate you even more. You’ve been so patient and supportive, and it means the world to me. I know I can’t be there physically, but emotionally, my heart is always with you. I think about you all the time—before I go to sleep, when I wake up, and even in between study sessions. 
-I promise you, I’m working hard for our future. Every moment I put into studying and every effort I put into building something for myself is also something I’m doing for us. You are my motivation, my inspiration, and my reason for striving to be the best I can be. I want to give you everything you deserve—my time, my love, my attention—and I know that this period of being apart won’t last forever.
-I’m not perfect, and I know I could always do more to make you feel appreciated and loved, but please know that you are the most important person in my life. You make everything worth it. Every time I pick up the phone to call you, I’m reminded of how lucky I am to have you. And even though I can’t always be there, my love for you grows stronger every day.Thank you for your patience, for your understanding, and for your constant support. You make everything easier for me, and I can’t wait until we can be together again, without all the studying and distance between us. Until then, I’ll carry you in my heart and keep working hard for the life we’re going to build together.
-I love you so much, more than words can even express. I miss you terribly, and I can’t wait to hold you in my arms again soon.
-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+
+
+I LOVE YOU SO MUCH REMEMBER THAT PLEASE 
